@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\algorithm_jungol\\Project1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1761_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1761_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\2259_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\2259_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "1761_jungol.cpp",
+              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1761_jungol.cpp",
+              "RelativeDocumentMoniker": "Project1\\1761_jungol.cpp",
+              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1761_jungol.cpp",
+              "RelativeToolTip": "Project1\\1761_jungol.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T09:19:50.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "2259_jungol.c",
               "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\2259_jungol.c",
               "RelativeDocumentMoniker": "Project1\\2259_jungol.c",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "1733_jungol.cpp",
               "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1733_jungol.cpp",
               "RelativeDocumentMoniker": "Project1\\1733_jungol.cpp",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Project1\\1733_jungol.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T09:02:51.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T09:02:51.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "2259.c",
               "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\2259.c",
               "RelativeDocumentMoniker": "Project1\\2259.c",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "1291_jungol.c",
               "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1291_jungol.c",
               "RelativeDocumentMoniker": "Project1\\1291_jungol.c",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "1997_jungol.c",
               "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1997_jungol.c",
               "RelativeDocumentMoniker": "Project1\\1997_jungol.c",
