@@ -131,6 +131,7 @@
     <ClCompile Include="1733_jungol.cpp" />
     <ClCompile Include="1997_jungol.c" />
     <ClCompile Include="2259.c" />
+    <ClCompile Include="2259_jungol.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

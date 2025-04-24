@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\algorithm_jungol\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\2259.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\2259.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1733_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1733_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1291_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1997_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1997_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\2259.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\2259.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "1733_jungol.cpp",
+              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1733_jungol.cpp",
+              "RelativeDocumentMoniker": "Project1\\1733_jungol.cpp",
+              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1733_jungol.cpp",
+              "RelativeToolTip": "Project1\\1733_jungol.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T09:02:51.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "2259.c",
               "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\2259.c",
               "RelativeDocumentMoniker": "Project1\\2259.c",
@@ -40,6 +53,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-23T23:43:42.389Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -64,7 +81,8 @@
               "RelativeToolTip": "Project1\\1997_jungol.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-23T04:34:59.935Z"
+              "WhenOpened": "2025-04-23T04:34:59.935Z",
+              "EditorCaption": ""
             }
           ]
         }
