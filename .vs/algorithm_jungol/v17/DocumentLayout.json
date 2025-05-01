@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\algorithm_jungol\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\algorithm_jungol\\Project1\\Project1\\\uC0C8 \uD30C\uC77C||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1\\Project1\\\uC0C8 \uD30C\uC77C||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\algorithm_jungol\\Project1\\Project1\\1901_jungol.c||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1\\Project1\\1901_jungol.c||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "\uC0C8 \uD30C\uC77C",
+              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\\uC0C8 \uD30C\uC77C",
+              "RelativeDocumentMoniker": "Project1\\Project1\\\uC0C8 \uD30C\uC77C",
+              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\\uC0C8 \uD30C\uC77C",
+              "RelativeToolTip": "Project1\\Project1\\\uC0C8 \uD30C\uC77C",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-01T00:30:03.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "1997_jungol.c",
               "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1997_jungol.c",
               "RelativeDocumentMoniker": "Project1\\Project1\\1997_jungol.c",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "Project1\\Project1\\1997_jungol.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-25T05:35:32.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T05:35:32.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "1761_jungol.cpp",
               "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1761_jungol.cpp",
               "RelativeDocumentMoniker": "Project1\\Project1\\1761_jungol.cpp",
@@ -51,18 +67,17 @@
               "RelativeToolTip": "Project1\\Project1\\1761_jungol.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-25T05:35:20.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T05:35:20.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "1901_jungol.c",
               "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1901_jungol.c",
               "RelativeDocumentMoniker": "Project1\\Project1\\1901_jungol.c",
               "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1901_jungol.c",
               "RelativeToolTip": "Project1\\Project1\\1901_jungol.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-25T04:56:14.601Z",
               "EditorCaption": ""
