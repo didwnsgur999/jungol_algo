@@ -45,5 +45,20 @@
     <ClCompile Include="1733_jungol.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1161_jungol.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8129_jungol.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1175_jungol.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2817_jungol.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1169_jungol.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
