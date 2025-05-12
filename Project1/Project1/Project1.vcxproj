@@ -139,6 +139,7 @@
     <ClCompile Include="1733_jungol.cpp" />
     <ClCompile Include="1761_jungol.cpp" />
     <ClCompile Include="1848_jungol.cpp" />
+    <ClCompile Include="1901_jungol.c" />
     <ClCompile Include="1997_jungol.c" />
     <ClCompile Include="2259.c" />
     <ClCompile Include="2259_jungol.c" />
@@ -149,8 +150,12 @@
     <ClCompile Include="3427_jungol.c" />
     <ClCompile Include="3522_jungol.cpp" />
     <ClCompile Include="5545_jungol.cpp" />
+    <ClCompile Include="5917_jungol.cpp" />
     <ClCompile Include="8129_jungol.c" />
     <ClCompile Include="s.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="새 파일" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

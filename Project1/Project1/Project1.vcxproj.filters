@@ -1,92 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="소스 파일">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="헤더 파일">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
-    <Filter Include="리소스 파일">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
+    <ClCompile Include="1102_jungol.c" />
+    <ClCompile Include="1161_jungol.c" />
+    <ClCompile Include="1169_jungol.c" />
+    <ClCompile Include="1175_jungol.c" />
+    <ClCompile Include="1291_jungol.c" />
+    <ClCompile Include="1407_jungol.cpp" />
+    <ClCompile Include="1411_jungol.cpp" />
+    <ClCompile Include="1459_jungol.cpp" />
+    <ClCompile Include="1733_jungol.c" />
+    <ClCompile Include="1733_jungol.cpp" />
+    <ClCompile Include="1761_jungol.cpp" />
+    <ClCompile Include="1848_jungol.cpp" />
+    <ClCompile Include="1997_jungol.c" />
+    <ClCompile Include="2259.c" />
+    <ClCompile Include="2259_jungol.c" />
+    <ClCompile Include="2514_jungol.c" />
+    <ClCompile Include="2811_jungol.cpp" />
+    <ClCompile Include="2813_jungol.c" />
+    <ClCompile Include="2817_jungol.c" />
+    <ClCompile Include="3427_jungol.c" />
+    <ClCompile Include="3522_jungol.cpp" />
+    <ClCompile Include="5545_jungol.cpp" />
+    <ClCompile Include="8129_jungol.c" />
+    <ClCompile Include="s.c" />
+    <ClCompile Include="1901_jungol.c" />
+    <ClCompile Include="5917_jungol.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1997_jungol.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1291_jungol.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2259.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1733_jungol.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2259_jungol.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1761_jungol.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="5545_jungol.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2514_jungol.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3427_jungol.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1733_jungol.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1161_jungol.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="8129_jungol.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1175_jungol.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2817_jungol.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1169_jungol.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2813_jungol.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1102_jungol.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="s.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3522_jungol.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1411_jungol.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1848_jungol.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-<<<<<<< HEAD
-    <ClCompile Include="2811_jungol.cpp">
-=======
-    <ClCompile Include="1407_jungol.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1459_jungol.cpp">
->>>>>>> 464eca55f4444cdd297c3f6864a15a153175b82e
-      <Filter>소스 파일</Filter>
-    </ClCompile>
+    <None Include="새 파일" />
   </ItemGroup>
 </Project>
