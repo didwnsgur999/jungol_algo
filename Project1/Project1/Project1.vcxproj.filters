@@ -78,7 +78,14 @@
     <ClCompile Include="1848_jungol.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="2811_jungol.cpp">
+=======
+    <ClCompile Include="1407_jungol.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1459_jungol.cpp">
+>>>>>>> 464eca55f4444cdd297c3f6864a15a153175b82e
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
