@@ -139,6 +139,7 @@
     <ClCompile Include="1733_jungol.cpp" />
     <ClCompile Include="1761_jungol.cpp" />
     <ClCompile Include="1848_jungol.cpp" />
+    <ClCompile Include="1880_jungol.c" />
     <ClCompile Include="1901_jungol.c" />
     <ClCompile Include="1997_jungol.c" />
     <ClCompile Include="2259.c" />
