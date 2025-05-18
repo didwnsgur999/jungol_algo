@@ -154,7 +154,15 @@
     <ClCompile Include="3522_jungol.cpp" />
     <ClCompile Include="5545_jungol.cpp" />
     <ClCompile Include="5917_jungol.cpp" />
+    <ClCompile Include="593_jungol.c" />
+    <ClCompile Include="594_jungol.c" />
+    <ClCompile Include="595_jungol.c" />
     <ClCompile Include="8129_jungol.c" />
+    <ClCompile Include="9108_jungol.c" />
+    <ClCompile Include="9109_jungol.c" />
+    <ClCompile Include="9110_jungol.c" />
+    <ClCompile Include="9111_jungol.c" />
+    <ClCompile Include="9112_jungol.c" />
     <ClCompile Include="s.c" />
   </ItemGroup>
   <ItemGroup>

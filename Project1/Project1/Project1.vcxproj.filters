@@ -30,6 +30,14 @@
     <ClCompile Include="2857_jungol.cpp" />
     <ClCompile Include="1880_jungol.c" />
     <ClCompile Include="1535_jungol_doing.c" />
+    <ClCompile Include="9108_jungol.c" />
+    <ClCompile Include="593_jungol.c" />
+    <ClCompile Include="9109_jungol.c" />
+    <ClCompile Include="9110_jungol.c" />
+    <ClCompile Include="594_jungol.c" />
+    <ClCompile Include="9111_jungol.c" />
+    <ClCompile Include="595_jungol.c" />
+    <ClCompile Include="9112_jungol.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="새 파일" />

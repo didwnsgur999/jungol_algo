@@ -1,117 +1,149 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\algorithm_jungol\\Project1\\",
+  "WorkspaceRootPath": "C:\\jungol_algo\\jungol_algo\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1535_jungol_doing.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9112_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\9112_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\595_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\595_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9111_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\9111_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\594_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\594_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9110_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\9110_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9109_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\9109_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\593_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\593_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9108_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\9108_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1535_jungol_doing.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1535_jungol_doing.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1880_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1880_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1880_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\2857_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2857_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\2857_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\5917_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\5917_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\5917_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\\uC0C8 \uD30C\uC77C||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\\uC0C8 \uD30C\uC77C||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\\uC0C8 \uD30C\uC77C||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1901_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1901_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1901_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\2514_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2514_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\2514_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\2259_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2259_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\2259_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\s.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\s.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\s.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\2811_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2811_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\2811_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1848_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1848_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1848_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1411_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1411_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1411_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\3522_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\3522_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\3522_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1102_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1102_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1102_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\2813_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2813_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\2813_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1169_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1169_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1169_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\2817_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2817_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\2817_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1175_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1175_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1175_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\8129_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\8129_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\8129_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1161_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1161_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1161_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1733_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1733_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1733_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1733_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1733_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1733_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\3427_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\3427_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\3427_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1291_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1291_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1291_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\5545_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\5545_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\5545_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1761_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1761_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1761_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1997_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1997_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1997_jungol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\2259.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2259.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\2259.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -122,45 +154,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "9112_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9112_jungol.c",
+              "RelativeDocumentMoniker": "Project1\\9112_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9112_jungol.c",
+              "RelativeToolTip": "Project1\\9112_jungol.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-18T05:36:49.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "595_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\595_jungol.c",
+              "RelativeDocumentMoniker": "Project1\\595_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\595_jungol.c",
+              "RelativeToolTip": "Project1\\595_jungol.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-18T05:32:51.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "9111_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9111_jungol.c",
+              "RelativeDocumentMoniker": "Project1\\9111_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9111_jungol.c",
+              "RelativeToolTip": "Project1\\9111_jungol.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-18T04:59:29.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "594_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\594_jungol.c",
+              "RelativeDocumentMoniker": "Project1\\594_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\594_jungol.c",
+              "RelativeToolTip": "Project1\\594_jungol.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-18T04:57:02.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "9110_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9110_jungol.c",
+              "RelativeDocumentMoniker": "Project1\\9110_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9110_jungol.c",
+              "RelativeToolTip": "Project1\\9110_jungol.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-18T04:52:15.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "9109_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9109_jungol.c",
+              "RelativeDocumentMoniker": "Project1\\9109_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9109_jungol.c",
+              "RelativeToolTip": "Project1\\9109_jungol.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-18T04:44:48.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "593_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\593_jungol.c",
+              "RelativeDocumentMoniker": "Project1\\593_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\593_jungol.c",
+              "RelativeToolTip": "Project1\\593_jungol.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-18T04:38:46.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "9108_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9108_jungol.c",
+              "RelativeDocumentMoniker": "Project1\\9108_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\9108_jungol.c",
+              "RelativeToolTip": "Project1\\9108_jungol.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-18T04:38:04.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "1535_jungol_doing.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1535_jungol_doing.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1535_jungol_doing.c",
               "RelativeDocumentMoniker": "Project1\\1535_jungol_doing.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1535_jungol_doing.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1535_jungol_doing.c",
               "RelativeToolTip": "Project1\\1535_jungol_doing.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-16T07:57:50.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "1880_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1880_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1880_jungol.c",
               "RelativeDocumentMoniker": "Project1\\1880_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1880_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1880_jungol.c",
               "RelativeToolTip": "Project1\\1880_jungol.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-15T10:37:26.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T10:37:26.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "2857_jungol.cpp",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\2857_jungol.cpp",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2857_jungol.cpp",
               "RelativeDocumentMoniker": "Project1\\2857_jungol.cpp",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\2857_jungol.cpp",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2857_jungol.cpp",
               "RelativeToolTip": "Project1\\2857_jungol.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -168,11 +299,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "5917_jungol.cpp",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\5917_jungol.cpp",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\5917_jungol.cpp",
               "RelativeDocumentMoniker": "Project1\\5917_jungol.cpp",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\5917_jungol.cpp",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\5917_jungol.cpp",
               "RelativeToolTip": "Project1\\5917_jungol.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -180,11 +311,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "\uC0C8 \uD30C\uC77C",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\\uC0C8 \uD30C\uC77C",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\\uC0C8 \uD30C\uC77C",
               "RelativeDocumentMoniker": "Project1\\\uC0C8 \uD30C\uC77C",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\\uC0C8 \uD30C\uC77C",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\\uC0C8 \uD30C\uC77C",
               "RelativeToolTip": "Project1\\\uC0C8 \uD30C\uC77C",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -192,11 +323,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "1901_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1901_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1901_jungol.c",
               "RelativeDocumentMoniker": "Project1\\1901_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1901_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1901_jungol.c",
               "RelativeToolTip": "Project1\\1901_jungol.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -204,11 +335,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "2811_jungol.cpp",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\2811_jungol.cpp",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2811_jungol.cpp",
               "RelativeDocumentMoniker": "Project1\\2811_jungol.cpp",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\2811_jungol.cpp",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2811_jungol.cpp",
               "RelativeToolTip": "Project1\\2811_jungol.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -216,11 +347,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "1848_jungol.cpp",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1848_jungol.cpp",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1848_jungol.cpp",
               "RelativeDocumentMoniker": "Project1\\1848_jungol.cpp",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1848_jungol.cpp",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1848_jungol.cpp",
               "RelativeToolTip": "Project1\\1848_jungol.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -228,11 +359,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "1411_jungol.cpp",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1411_jungol.cpp",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1411_jungol.cpp",
               "RelativeDocumentMoniker": "Project1\\1411_jungol.cpp",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1411_jungol.cpp",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1411_jungol.cpp",
               "RelativeToolTip": "Project1\\1411_jungol.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -240,11 +371,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "3522_jungol.cpp",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\3522_jungol.cpp",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\3522_jungol.cpp",
               "RelativeDocumentMoniker": "Project1\\3522_jungol.cpp",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\3522_jungol.cpp",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\3522_jungol.cpp",
               "RelativeToolTip": "Project1\\3522_jungol.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -252,11 +383,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "s.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\s.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\s.c",
               "RelativeDocumentMoniker": "Project1\\s.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\s.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\s.c",
               "RelativeToolTip": "Project1\\s.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -264,11 +395,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "1102_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1102_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1102_jungol.c",
               "RelativeDocumentMoniker": "Project1\\1102_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1102_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1102_jungol.c",
               "RelativeToolTip": "Project1\\1102_jungol.c",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -276,11 +407,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "2813_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\2813_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2813_jungol.c",
               "RelativeDocumentMoniker": "Project1\\2813_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\2813_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2813_jungol.c",
               "RelativeToolTip": "Project1\\2813_jungol.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -288,11 +419,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "1169_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1169_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1169_jungol.c",
               "RelativeDocumentMoniker": "Project1\\1169_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1169_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1169_jungol.c",
               "RelativeToolTip": "Project1\\1169_jungol.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -300,11 +431,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "2817_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\2817_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2817_jungol.c",
               "RelativeDocumentMoniker": "Project1\\2817_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\2817_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2817_jungol.c",
               "RelativeToolTip": "Project1\\2817_jungol.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -312,11 +443,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "1175_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1175_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1175_jungol.c",
               "RelativeDocumentMoniker": "Project1\\1175_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1175_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1175_jungol.c",
               "RelativeToolTip": "Project1\\1175_jungol.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -324,11 +455,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "8129_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\8129_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\8129_jungol.c",
               "RelativeDocumentMoniker": "Project1\\8129_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\8129_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\8129_jungol.c",
               "RelativeToolTip": "Project1\\8129_jungol.c",
               "ViewState": "AgIAAAgAAAAAAAAAAAAmwCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -336,11 +467,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "1161_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1161_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1161_jungol.c",
               "RelativeDocumentMoniker": "Project1\\1161_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1161_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1161_jungol.c",
               "RelativeToolTip": "Project1\\1161_jungol.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -348,11 +479,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "1733_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1733_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1733_jungol.c",
               "RelativeDocumentMoniker": "Project1\\1733_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1733_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1733_jungol.c",
               "RelativeToolTip": "Project1\\1733_jungol.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -360,11 +491,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "3427_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\3427_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\3427_jungol.c",
               "RelativeDocumentMoniker": "Project1\\3427_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\3427_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\3427_jungol.c",
               "RelativeToolTip": "Project1\\3427_jungol.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -372,11 +503,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "2514_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\2514_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2514_jungol.c",
               "RelativeDocumentMoniker": "Project1\\2514_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\2514_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2514_jungol.c",
               "RelativeToolTip": "Project1\\2514_jungol.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -384,11 +515,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "5545_jungol.cpp",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\5545_jungol.cpp",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\5545_jungol.cpp",
               "RelativeDocumentMoniker": "Project1\\5545_jungol.cpp",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\5545_jungol.cpp",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\5545_jungol.cpp",
               "RelativeToolTip": "Project1\\5545_jungol.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -396,11 +527,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "1761_jungol.cpp",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1761_jungol.cpp",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1761_jungol.cpp",
               "RelativeDocumentMoniker": "Project1\\1761_jungol.cpp",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1761_jungol.cpp",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1761_jungol.cpp",
               "RelativeToolTip": "Project1\\1761_jungol.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -408,11 +539,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "2259_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\2259_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2259_jungol.c",
               "RelativeDocumentMoniker": "Project1\\2259_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\2259_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2259_jungol.c",
               "RelativeToolTip": "Project1\\2259_jungol.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -420,11 +551,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "1733_jungol.cpp",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1733_jungol.cpp",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1733_jungol.cpp",
               "RelativeDocumentMoniker": "Project1\\1733_jungol.cpp",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1733_jungol.cpp",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1733_jungol.cpp",
               "RelativeToolTip": "Project1\\1733_jungol.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAgwCsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -432,11 +563,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "2259.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\2259.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2259.c",
               "RelativeDocumentMoniker": "Project1\\2259.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\2259.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\2259.c",
               "RelativeToolTip": "Project1\\2259.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -444,11 +575,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "1291_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1291_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1291_jungol.c",
               "RelativeDocumentMoniker": "Project1\\1291_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1291_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1291_jungol.c",
               "RelativeToolTip": "Project1\\1291_jungol.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -456,11 +587,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "1997_jungol.c",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1997_jungol.c",
+              "DocumentMoniker": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1997_jungol.c",
               "RelativeDocumentMoniker": "Project1\\1997_jungol.c",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1997_jungol.c",
+              "ToolTip": "C:\\jungol_algo\\jungol_algo\\Project1\\Project1\\1997_jungol.c",
               "RelativeToolTip": "Project1\\1997_jungol.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
