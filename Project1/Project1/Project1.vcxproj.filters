@@ -38,6 +38,7 @@
     <ClCompile Include="9111_jungol.c" />
     <ClCompile Include="595_jungol.c" />
     <ClCompile Include="9112_jungol.c" />
+    <ClCompile Include="2074_jungol.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="새 파일" />
