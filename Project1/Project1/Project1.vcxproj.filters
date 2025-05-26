@@ -39,6 +39,7 @@
     <ClCompile Include="595_jungol.c" />
     <ClCompile Include="9112_jungol.c" />
     <ClCompile Include="2074_jungol.c" />
+<<<<<<< HEAD
     <ClCompile Include="596_jungol.c" />
     <ClCompile Include="9113_jungol.c" />
     <ClCompile Include="597_jungol.c" />
@@ -49,6 +50,10 @@
     <ClCompile Include="9116_jungol.c" />
     <ClCompile Include="600_jungol.c" />
     <ClCompile Include="9117_jungol.c" />
+=======
+    <ClCompile Include="1520_jungol.c" />
+    <ClCompile Include="1311_jungol.c" />
+>>>>>>> 44fd5e95e257693ec51c59c0aa07237a50d3203a
   </ItemGroup>
   <ItemGroup>
     <None Include="새 파일" />
