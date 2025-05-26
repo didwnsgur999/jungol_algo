@@ -158,12 +158,22 @@
     <ClCompile Include="593_jungol.c" />
     <ClCompile Include="594_jungol.c" />
     <ClCompile Include="595_jungol.c" />
+    <ClCompile Include="596_jungol.c" />
+    <ClCompile Include="597_jungol.c" />
+    <ClCompile Include="598_jungol.c" />
+    <ClCompile Include="599_jungol.c" />
+    <ClCompile Include="600_jungol.c" />
     <ClCompile Include="8129_jungol.c" />
     <ClCompile Include="9108_jungol.c" />
     <ClCompile Include="9109_jungol.c" />
     <ClCompile Include="9110_jungol.c" />
     <ClCompile Include="9111_jungol.c" />
     <ClCompile Include="9112_jungol.c" />
+    <ClCompile Include="9113_jungol.c" />
+    <ClCompile Include="9114_jungol.c" />
+    <ClCompile Include="9115_jungol.c" />
+    <ClCompile Include="9116_jungol.c" />
+    <ClCompile Include="9117_jungol.c" />
     <ClCompile Include="s.c" />
   </ItemGroup>
   <ItemGroup>
