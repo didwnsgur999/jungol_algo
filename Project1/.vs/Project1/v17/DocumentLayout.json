@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\algorithm_jungol\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1824_jungol_doing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1824_jungol_doing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1824_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1824_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D21E2EC3-5451-4517-8CDA-7DFEE15EC6F8}|Project1\\Project1.vcxproj|C:\\algorithm_jungol\\Project1\\Project1\\1457_jungol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -191,12 +191,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1824_jungol_doing.cpp",
-              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1824_jungol_doing.cpp",
-              "RelativeDocumentMoniker": "Project1\\1824_jungol_doing.cpp",
-              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1824_jungol_doing.cpp",
-              "RelativeToolTip": "Project1\\1824_jungol_doing.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Title": "1824_jungol.cpp",
+              "DocumentMoniker": "C:\\algorithm_jungol\\Project1\\Project1\\1824_jungol.cpp",
+              "RelativeDocumentMoniker": "Project1\\1824_jungol.cpp",
+              "ToolTip": "C:\\algorithm_jungol\\Project1\\Project1\\1824_jungol.cpp",
+              "RelativeToolTip": "Project1\\1824_jungol.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-29T09:51:28.501Z",
               "EditorCaption": ""
@@ -211,8 +211,7 @@
               "RelativeToolTip": "Project1\\1457_jungol.cpp",
               "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-27T10:38:18.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T10:38:18.967Z"
             },
             {
               "$type": "Document",
