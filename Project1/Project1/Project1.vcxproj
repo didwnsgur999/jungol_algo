@@ -182,6 +182,7 @@
     <ClCompile Include="599_jungol.c" />
     <ClCompile Include="600_jungol.c" />
     <ClCompile Include="7009_jungol.cpp" />
+    <ClCompile Include="8073_jungol.cpp" />
     <ClCompile Include="8129_jungol.c" />
     <ClCompile Include="9108_jungol.c" />
     <ClCompile Include="9109_jungol.c" />
