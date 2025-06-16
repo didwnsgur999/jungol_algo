@@ -1,10 +1,11 @@
+#include <algorithm>
 #include <iostream>
 #include <vector>
 #include <algorithm>
 
 using namespace std;
 
-//í–‰,ì—´,ì“¸ ê°¯ìˆ˜,í‹€ë¦°ê°¯ìˆ˜
+//??????ê°?ˆ˜,?€ë¦°ê°¯??
 long long r, c, num, w;
 long long maxy;
 
@@ -26,25 +27,25 @@ int main(void) {
     long long y;
     vector<long long> V;
     V.resize(w);
-    //ì´ˆê¸° maxyê°’ ë½‘ê¸°.
+    //ÃÊ±â maxy°ª »Ì±â.
     for (long long i = 0; i < w; i++) {
         cin >> y >> V[i];
         if (maxy < y)
             maxy = y;
     }
-    //low = max yê°’ high = ì—´ ê°¯ìˆ˜
+    //low = max y°ª high = ¿­ °¹¼ö
     long long low = maxy;
     long long high = c;
     sort(V.begin(), V.end());
     while (low <= high) {
         long long mid = (low + high) / 2;
         long long res = res_cnt(V, mid);
-        //numberê°’ì´ resultë³´ë‹¤ í¬ê±°ë‚˜ ê°™ë‹¤
-        //->ë” ì‘ì€ ë„í™”ì§€ í•´ë³¸ë‹¤. -> highê°’ mid-1ë¡œ ë³€ê²½
+        //number°ªÀÌ resultº¸´Ù Å©°Å³ª °°´Ù
+        //->´õ ÀÛÀº µµÈ­Áö ÇØº»´Ù. -> high°ª mid-1·Î º¯°æ
         if (num >= res) {
             high = mid - 1;
         }
-        //ì‘ë‹¤ = ë” í° ë„í™”ì§€ í•´ì•¼ëœë‹¤.
+        //ÀÛ´Ù = ´õ Å« µµÈ­Áö ÇØ¾ßµÈ´Ù.
         else {
             low = mid + 1;
         }
