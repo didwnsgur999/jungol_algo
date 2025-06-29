@@ -153,6 +153,7 @@
     <ClCompile Include="1733_jungol.cpp" />
     <ClCompile Include="1761_jungol.cpp" />
     <ClCompile Include="1809_jungol.cpp" />
+    <ClCompile Include="1816_jungol.cpp" />
     <ClCompile Include="1822_jungol.cpp" />
     <ClCompile Include="1824_jungol.cpp" />
     <ClCompile Include="1840_jungol.cpp" />
@@ -200,6 +201,7 @@
     <ClCompile Include="6336_jungol.cpp" />
     <ClCompile Include="7009_jungol.cpp" />
     <ClCompile Include="8073_jungol.cpp" />
+    <ClCompile Include="8074_jungol.cpp" />
     <ClCompile Include="8129_jungol.c" />
     <ClCompile Include="9108_jungol.c" />
     <ClCompile Include="9109_jungol.c" />
