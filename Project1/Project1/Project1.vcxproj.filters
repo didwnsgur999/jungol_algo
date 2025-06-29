@@ -86,6 +86,10 @@
     <ClCompile Include="1822_jungol.cpp" />
     <ClCompile Include="5461_jungol.cpp" />
     <ClCompile Include="5804_jungol.cpp" />
+    <ClCompile Include="1335_jungol.cpp" />
+    <ClCompile Include="5527_jungol.cpp" />
+    <ClCompile Include="4989_jungol.cpp" />
+    <ClCompile Include="8036_jungol.cpp" />
     <ClCompile Include="8074_jungol.cpp" />
     <ClCompile Include="1816_jungol.cpp" />
   </ItemGroup>
