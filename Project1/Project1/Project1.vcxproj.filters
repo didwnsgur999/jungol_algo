@@ -98,6 +98,12 @@
     <ClCompile Include="1082_jungol.cpp" />
     <ClCompile Include="2499_jungol.cpp" />
     <ClCompile Include="2498_jungol.cpp" />
+    <ClCompile Include="2255_jungol.cpp" />
+    <ClCompile Include="1183_jungol.cpp" />
+    <ClCompile Include="5801_jungol.cpp" />
+    <ClCompile Include="5393_jungol.cpp" />
+    <ClCompile Include="6057_jungol.cpp" />
+    <ClCompile Include="2567_jungol.cpp" />
     <ClCompile Include="1183_jungol.cpp" />
     <ClCompile Include="1021_jungol.cpp" />
   </ItemGroup>
