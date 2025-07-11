@@ -168,6 +168,7 @@
     <ClCompile Include="1901_jungol.c" />
     <ClCompile Include="1912_jungol.cpp" />
     <ClCompile Include="1997_jungol.c" />
+    <ClCompile Include="2000_jungol.cpp" />
     <ClCompile Include="2074_jungol.c" />
     <ClCompile Include="2194_jungol.cpp" />
     <ClCompile Include="2217_jungol.cpp" />
