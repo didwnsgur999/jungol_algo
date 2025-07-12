@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1021_jungol.cpp" />
+    <ClCompile Include="1077_jungol.cpp" />
     <ClCompile Include="1082_jungol.cpp" />
     <ClCompile Include="1102_jungol.c" />
     <ClCompile Include="1106_jungol.cpp" />
@@ -167,6 +169,7 @@
     <ClCompile Include="1901_jungol.c" />
     <ClCompile Include="1912_jungol.cpp" />
     <ClCompile Include="1997_jungol.c" />
+    <ClCompile Include="2000_jungol.cpp" />
     <ClCompile Include="2074_jungol.c" />
     <ClCompile Include="2194_jungol.cpp" />
     <ClCompile Include="2217_jungol.cpp" />
