@@ -108,6 +108,7 @@
     <ClCompile Include="1021_jungol.cpp" />
     <ClCompile Include="2000_jungol.cpp" />
     <ClCompile Include="1077_jungol.cpp" />
+    <ClCompile Include="6058_jungol.cpp" />
     <ClCompile Include="3078_jungol.cpp" />
   </ItemGroup>
   <ItemGroup>
