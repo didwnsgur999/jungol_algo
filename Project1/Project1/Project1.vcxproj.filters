@@ -116,6 +116,7 @@
     <ClCompile Include="2109_jungol.cpp" />
     <ClCompile Include="2223_jungol.cpp" />
     <ClCompile Include="8561_jungol.cpp" />
+    <ClCompile Include="8562_jungol.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="새 파일" />
