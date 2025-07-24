@@ -16,7 +16,7 @@ void dfs(int depth, int cp, int cf, int cs, int cv, int cc) {
         }
         return;
     }
-    if (depth == N) {
+    if (depth == N||cc>cost) {
         return;
     }
     auto [p, f, s, v, c] = food[depth];
