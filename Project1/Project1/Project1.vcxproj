@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1006_jungol.cpp" />
     <ClCompile Include="1021_jungol.cpp" />
     <ClCompile Include="1077_jungol.cpp" />
     <ClCompile Include="1082_jungol.cpp" />
