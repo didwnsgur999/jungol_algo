@@ -130,6 +130,7 @@
     <ClCompile Include="1006_jungol.cpp" />
     <ClCompile Include="2616_jungol.cpp" />
     <ClCompile Include="42626_Programmers.cpp" />
+    <ClCompile Include="43238_Programmers.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="새 파일" />
