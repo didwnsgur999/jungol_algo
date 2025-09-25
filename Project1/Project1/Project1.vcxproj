@@ -208,6 +208,7 @@
     <ClCompile Include="42626_Programmers.cpp" />
     <ClCompile Include="42627_P.cpp" />
     <ClCompile Include="43238_Programmers.cpp" />
+    <ClCompile Include="4520_J.cpp" />
     <ClCompile Include="4521_jungol.cpp" />
     <ClCompile Include="4523_jungol.cpp" />
     <ClCompile Include="4524_jungol.cpp" />
